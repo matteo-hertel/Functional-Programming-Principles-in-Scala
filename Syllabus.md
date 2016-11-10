@@ -1,10 +1,10 @@
 # Full course Syllabus
 
 ## Week One
-- [ ] Video: Course Introduction
-- [ ] Video: Tools Setup for Linux
-- [ ] Video: Tools Setup for Mac OS X
-- [ ] Video: Tools Setup for Windows
+- [x] Video: Course Introduction
+- [x] Video: Tools Setup for Linux
+- [x] Video: Tools Setup for Mac OS X
+- [x] Video: Tools Setup for Windows
 - [ ] Ungraded Programming: Example Assignment
 - [ ] Reading: Tools Setup (Please read)
 - [ ] Reading: Cheat Sheet
