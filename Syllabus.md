@@ -10,8 +10,8 @@
 - [x] Reading: Cheat Sheet
 - [x] Reading: IntelliJ IDEA Tutorial
 - [x] Reading: Eclipse Tutorial
-- [ ] Reading: SBT tutorial and Submission of Assignments (Please read)
-- [ ] Reading: Learning Resources
+- [x] Reading: SBT tutorial and Submission of Assignments (Please read)
+- [x] Reading: Learning Resources
 - [ ] Reading: Scala Tutorial
 - [ ] Reading: Scala Style Guide
 - [ ] Video: Lecture 1.1 - Programming Paradigms
