@@ -5,11 +5,11 @@
 - [x] Video: Tools Setup for Linux
 - [x] Video: Tools Setup for Mac OS X
 - [x] Video: Tools Setup for Windows
-- [ ] Ungraded Programming: Example Assignment
-- [ ] Reading: Tools Setup (Please read)
-- [ ] Reading: Cheat Sheet
-- [ ] Reading: IntelliJ IDEA Tutorial
-- [ ] Reading: Eclipse Tutorial
+- [x] Ungraded Programming: Example Assignment
+- [x] Reading: Tools Setup (Please read)
+- [x] Reading: Cheat Sheet
+- [x] Reading: IntelliJ IDEA Tutorial
+- [x] Reading: Eclipse Tutorial
 - [ ] Reading: SBT tutorial and Submission of Assignments (Please read)
 - [ ] Reading: Learning Resources
 - [ ] Reading: Scala Tutorial
