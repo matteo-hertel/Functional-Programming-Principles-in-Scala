@@ -12,9 +12,9 @@
 - [x] Reading: Eclipse Tutorial
 - [x] Reading: SBT tutorial and Submission of Assignments (Please read)
 - [x] Reading: Learning Resources
-- [ ] Reading: Scala Tutorial
-- [ ] Reading: Scala Style Guide
-- [ ] Video: Lecture 1.1 - Programming Paradigms
+- [x] Reading: Scala Tutorial
+- [x] Reading: Scala Style Guide
+- [x] Video: Lecture 1.1 - Programming Paradigms
 - [ ] Video: Lecture 1.2 - Elements of Programming
 - [ ] Video: Lecture 1.3 - Evaluation Strategies and Termination
 - [ ] Video: Lecture 1.4 - Conditionals and Value Definitions
