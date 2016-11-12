@@ -15,10 +15,10 @@
 - [x] Reading: Scala Tutorial
 - [x] Reading: Scala Style Guide
 - [x] Video: Lecture 1.1 - Programming Paradigms
-- [ ] Video: Lecture 1.2 - Elements of Programming
-- [ ] Video: Lecture 1.3 - Evaluation Strategies and Termination
-- [ ] Video: Lecture 1.4 - Conditionals and Value Definitions
-- [ ] Video: Lecture 1.5 - Example: square roots with Newton's method
+- [x] Video: Lecture 1.2 - Elements of Programming
+- [x] Video: Lecture 1.3 - Evaluation Strategies and Termination
+- [x] Video: Lecture 1.4 - Conditionals and Value Definitions
+- [x] Video: Lecture 1.5 - Example: square roots with Newton's method
 - [ ] Video: Lecture 1.6 - Blocks and Lexical Scope
 - [ ] Video: Lecture 1.7 - Tail Recursion
 - [ ] Graded: Recursion
