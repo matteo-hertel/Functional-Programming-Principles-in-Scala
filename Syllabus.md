@@ -19,6 +19,6 @@
 - [x] Video: Lecture 1.3 - Evaluation Strategies and Termination
 - [x] Video: Lecture 1.4 - Conditionals and Value Definitions
 - [x] Video: Lecture 1.5 - Example: square roots with Newton's method
-- [ ] Video: Lecture 1.6 - Blocks and Lexical Scope
-- [ ] Video: Lecture 1.7 - Tail Recursion
+- [x] Video: Lecture 1.6 - Blocks and Lexical Scope
+- [x] Video: Lecture 1.7 - Tail Recursion
 - [ ] Graded: Recursion
