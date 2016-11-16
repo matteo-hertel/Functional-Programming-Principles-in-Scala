@@ -21,4 +21,4 @@
 - [x] Video: Lecture 1.5 - Example: square roots with Newton's method
 - [x] Video: Lecture 1.6 - Blocks and Lexical Scope
 - [x] Video: Lecture 1.7 - Tail Recursion
-- [x] Graded: Recursion
+- [ ] Graded: Recursion
