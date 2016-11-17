@@ -22,3 +22,12 @@
 - [x] Video: Lecture 1.6 - Blocks and Lexical Scope
 - [x] Video: Lecture 1.7 - Tail Recursion
 - [x] Graded: Recursion
+
+## Week Two
+- [ ] Higher-Order Functions
+- [ ] Currying
+- [ ] Example: Finding Fixed Points
+- [ ] Scala Syntax Summary
+- [ ] Functions and Data
+- [ ] More Fun With Rationals
+- [ ] Evaluation and Operators
