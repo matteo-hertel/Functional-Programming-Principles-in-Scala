@@ -24,10 +24,11 @@
 - [x] Graded: Recursion
 
 ## Week Two
-- [x] Higher-Order Functions
-- [ ] Currying
-- [ ] Example: Finding Fixed Points
-- [ ] Scala Syntax Summary
-- [ ] Functions and Data
-- [ ] More Fun With Rationals
-- [ ] Evaluation and Operators
+- [] Video: Lecture 2.1 - Higher-Order Functions
+- [] Video: Lecture 2.2 - Currying
+- [] Video: Lecture 2.3 - Example: Finding Fixed Points
+- [] Video: Lecture 2.4 - Scala Syntax Summary
+- [] Video: Lecture 2.5 - Functions and Data
+- [] Video: Lecture 2.6 - More Fun With Rationals
+- [] Video: Lecture 2.7 - Evaluation and Operators
+- [] Graded: Functional Sets
