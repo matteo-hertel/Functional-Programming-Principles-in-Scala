@@ -24,7 +24,7 @@
 - [x] Graded: Recursion
 
 ## Week Two
-- [ ] Higher-Order Functions
+- [x] Higher-Order Functions
 - [ ] Currying
 - [ ] Example: Finding Fixed Points
 - [ ] Scala Syntax Summary
